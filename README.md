@@ -28,7 +28,7 @@
 |---------|-------------|------|
 | [**PRISM**](https://github.com/yash-shende99/prism) | AI-powered virtual analyst for company research in M&A & private equity | Python, AI, NLP |
 | [**99Music**](https://github.com/yash-shende99/99music) | Full-stack MERN music streaming platform | MERN Stack |
-| [**Tic Tac Toe**](https://github.com/yash-shende99/tic-tac-toe) | Classic Tic Tac Toe game with interactive UI | Python / JavaScript |
+| [**Tic Tac Toe**](https://github.com/yash-shende99/tic-tac-toe) | Classic Tic Tac Toe game with interactive UI | JavaScript |
 
 ---
 
