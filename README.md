@@ -1,49 +1,171 @@
-# 👋 Hi, I’m Yash Shende  
+<h1 align="center">👋 Hi, I'm Yash Shende</h1>
+<h3 align="center">🚀 Full-Stack Developer | AI/ML Engineer | M&A Tech Architect</h3>
 
-🚀 **Software Developer | MERN Stack | AI Enthusiast**  
-💡 Passionate about building intelligent systems.  
-
----
-
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-005C9C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-1E4E5F?style=for-the-badge&logo=python&logoColor=white)
-![TA-Lib](https://img.shields.io/badge/TA--Lib-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Products;300%2B+DSA+Problems+Solved;Research+Publication+%40+ICTEM+2.0;Full-Stack+%7C+Next.js+%7C+FastAPI+%7C+LLMs" alt="Typing SVG" />
+</p>
 
 ---
 
-## 📌 Featured Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**PRISM**](https://github.com/yash-shende99/prism) | AI-powered virtual analyst for company research in M&A & private equity | Python, AI, NLP |
-| [**99Music**](https://github.com/yash-shende99/99music) | Full-stack MERN music streaming platform | MERN Stack |
-| [**Tic Tac Toe**](https://github.com/yash-shende99/tic-tac-toe) | Classic Tic Tac Toe game with interactive UI | JavaScript |
+### 🏆 About Me
+
+I'm an **IT student** and **software developer** passionate about building **production-oriented AI systems** that solve real business problems. I architect full-stack applications with a focus on **scalability**, **security**, and **intelligent automation**.
+
+- 🔭 **Currently building:** [SynergyAI](https://github.com/yourusername/synergyai) – AI-powered M&A Workspace for Analysts
+- 📝 **Research:** Corresponding Author – *"SynergyAI: AI-Driven Predictive Valuation & Risk Assessment for Private Equity"* (Scopus-indexed, CRC Press)
+- 💻 **Solved:** 300+ DSA problems across LeetCode, CodeStudio, and GeeksforGeeks
+- 🌱 **Learning:** Advanced RAG architectures, Distributed Systems, System Design
+- 📫 **Reach me:** [LinkedIn](https://linkedin.com/in/yourusername) | [Email](mailto:yash@example.com)
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-shende99&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-shende99&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=yash-shende99&theme=tokyonight)
+### 🔥 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 SynergyAI</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LLaMA_3-FF6B6B?style=for-the-badge&logo=meta&logoColor=white"/>
+      </p>
+      <p>
+        <strong>AI-Powered M&A Workspace & Analyst Co-Pilot Platform</strong><br/>
+        • 12+ core modules (Deal Sourcing, VDR, Valuation, Risk Analytics)<br/>
+        • RAG-based document intelligence using fine-tuned LLaMA-3<br/>
+        • Real-time collaboration with Row-Level Security<br/>
+        • Predictive valuation & Monte Carlo simulations
+      </p>
+      <p align="center">
+        <a href="https://github.com/yourusername/synergyai">
+          <img src="https://img.shields.io/badge/⭐_View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📊 Nifty 50 ML Analytics</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LightGBM-FFA500?style=for-the-badge&logo=lightgbm&logoColor=white"/>
+        <img src="https://img.shields.io/badge/SHAP-006400?style=for-the-badge&logo=shap&logoColor=white"/>
+      </p>
+      <p>
+        <strong>Portfolio Optimization & Market Regime Detection</strong><br/>
+        • Ensemble ML (LightGBM) with walk-forward validation<br/>
+        • HMM for regime-aware risk management<br/>
+        • SHAP-based Explainable AI for transparent recommendations<br/>
+        • Full-stack deployment with FastAPI + Next.js
+      </p>
+      <p align="center">
+        <a href="https://github.com/yourusername/nifty-ml-analytics">
+          <img src="https://img.shields.io/badge/⭐_View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏥 Prescripto</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      </p>
+      <p>
+        <strong>AI-Powered Doctor Appointment App</strong><br/>
+        • Disease prediction using Random Forest (92% accuracy)<br/>
+        • Urgency-based, conflict-free slot allocation<br/>
+        • Real-time doctor availability tracking
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🅿️ Automated Parking System</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MERN-00C58E?style=for-the-badge&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+      </p>
+      <p>
+        <strong>Full-Stack Parking Management</strong><br/>
+        • Real-time slot availability tracking<br/>
+        • JWT authentication & role-based access<br/>
+        • Automated billing and history logging
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashshende9999@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)]()
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/LightGBM-FFA500?style=for-the-badge&logo=lightgbm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLaMA-FF6B6B?style=for-the-badge&logo=meta&logoColor=white"/>
+</p>
 
 ---
 
-⭐ *"Code, trade, repeat — building intelligent systems that work while you sleep."*
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="45%" />
+</p>
+
+---
+
+### 🏅 Achievements
+
+- 📄 **Research Publication** – *"SynergyAI: AI-Driven Predictive Valuation & Risk Assessment for Private Equity"* – ICTEM 2.0, CRC Press (Scopus-indexed)
+- 💻 **Competitive Programming** – 300+ DSA problems solved
+- 🏆 **Hackathons** – [Add any wins/participations here]
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:yash@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/yourusername">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>"Building the future, one commit at a time."</i>
+</p>
