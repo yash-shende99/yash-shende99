@@ -202,12 +202,6 @@ I'm an **IT student** and **software developer** passionate about building **pro
 
 ---
 
-### 📈 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
