@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Products;300%2B+DSA+Problems+Solved;Research+Publication+%40+ICTEM+2.0;Full-Stack+%7C+Next.js+%7C+FastAPI+%7C+LLMs" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yash-shende99&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yash-shende99?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Research-Scopus_Indexed-blue" alt="Research" />
-</p>
 
 ---
 
