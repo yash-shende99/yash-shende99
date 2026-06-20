@@ -17,7 +17,7 @@ I'm an **IT student** and **software developer** passionate about building **pro
 | 🔭 **Currently building** | [SynergyAI](https://github.com/yash-shende99/SynergyAI) – AI-powered M&A Workspace |
 | 📝 **Research Publication** | *"SynergyAI: AI-Driven Predictive Valuation & Risk Assessment"* – Scopus-indexed, CRC Press |
 | 💻 **DSA Problems Solved** | 300+ across LeetCode, CodeStudio, GeeksforGeeks |
-| 🌱 **Currently Learning** | Advanced RAG, Distributed Systems, System Design |
+| 🌱 **Currently Learning** | Advanced RAG architectures, Distributed Systems, System Design |
 | 📫 **Reach me** | [LinkedIn](https://www.linkedin.com/in/yash-shende-b313412b8/) • [Email](mailto:yashshende9999@gmail.com) |
 
 ---
