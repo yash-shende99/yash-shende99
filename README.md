@@ -8,7 +8,7 @@
 
 ---
 
-### 🏆 About Me
+### 🏆 About Me 
 
 I'm an **IT student** and **software developer** passionate about building **production-oriented AI systems** that solve real business problems. I architect full-stack applications with a focus on **scalability**, **security**, and **intelligent automation**.
 
