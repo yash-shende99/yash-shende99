@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Yash Shende</h1>
-<h3 align="center">🚀 Full-Stack Developer | AI/ML Engineer | M&A Tech Architect</h3>
+<h3 align="center">🚀 Full-Stack Developer | AI/ML Engineer | M&A Intelligence Platform Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Products;300%2B+DSA+Problems+Solved;Research+Publication+%40+ICTEM+2.0;Full-Stack+%7C+Next.js+%7C+FastAPI+%7C+LLMs" alt="Typing SVG" />
