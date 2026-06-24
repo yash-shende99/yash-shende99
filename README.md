@@ -64,7 +64,7 @@ I'm an **IT student** and **software developer** passionate about building **pro
         • Full-stack deployment with FastAPI + Next.js + TypeScript
       </p>
       <p align="center">
-        <a href="https://github.com/yash-shende99/portfolio-ml">
+        <a href="https://github.com/yash-shende99/Prescripto">
           <img src="https://img.shields.io/badge/⭐_View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
